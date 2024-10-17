@@ -1,7 +1,7 @@
 //5. Objetos en JavaScript
 
 //Ejercicio 1
-let persona = {
+let persona = { //definir atributos y metodos de un objeto persona
     nombre: "Ana",
     edad: 30,
     ciudad: "Barcelona",
@@ -15,7 +15,7 @@ let persona = {
   persona.cambiarCiudad("Madrid")
   
   //Ejercicio 2
-  let libro = {
+  let libro = { //definir atributos y metodos de un objeto libro
     titulo: "El Quijote",
     autor: "Miguel de Cervantes",
     anio: 1605,
